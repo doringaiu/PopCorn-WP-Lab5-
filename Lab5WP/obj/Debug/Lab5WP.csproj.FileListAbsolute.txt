@@ -1,0 +1,18 @@
+c:\users\dorin93\documents\visual studio 2013\Projects\Lab5WP\Lab5WP\bin\Debug\Lab5WP.exe.config
+c:\users\dorin93\documents\visual studio 2013\Projects\Lab5WP\Lab5WP\bin\Debug\Lab5WP.exe
+c:\users\dorin93\documents\visual studio 2013\Projects\Lab5WP\Lab5WP\bin\Debug\Lab5WP.pdb
+c:\users\dorin93\documents\visual studio 2013\Projects\Lab5WP\Lab5WP\obj\Debug\Lab5WP.csprojResolveAssemblyReference.cache
+c:\users\dorin93\documents\visual studio 2013\Projects\Lab5WP\Lab5WP\obj\Debug\Lab5WP.Form1.resources
+c:\users\dorin93\documents\visual studio 2013\Projects\Lab5WP\Lab5WP\obj\Debug\Lab5WP.Properties.Resources.resources
+c:\users\dorin93\documents\visual studio 2013\Projects\Lab5WP\Lab5WP\obj\Debug\Lab5WP.csproj.GenerateResource.Cache
+c:\users\dorin93\documents\visual studio 2013\Projects\Lab5WP\Lab5WP\obj\Debug\Lab5WP.exe
+c:\users\dorin93\documents\visual studio 2013\Projects\Lab5WP\Lab5WP\obj\Debug\Lab5WP.pdb
+C:\Users\Dorin\Desktop\Lab5WP\Lab5WP\bin\Debug\Lab5WP.exe.config
+C:\Users\Dorin\Desktop\Lab5WP\Lab5WP\obj\Debug\Lab5WP.exe
+C:\Users\Dorin\Desktop\Lab5WP\Lab5WP\obj\Debug\Lab5WP.pdb
+C:\Users\Dorin\Desktop\Lab5WP\Lab5WP\obj\Debug\Lab5WP.csprojResolveAssemblyReference.cache
+C:\Users\Dorin\Desktop\Lab5WP\Lab5WP\obj\Debug\Lab5WP.Form1.resources
+C:\Users\Dorin\Desktop\Lab5WP\Lab5WP\obj\Debug\Lab5WP.Properties.Resources.resources
+C:\Users\Dorin\Desktop\Lab5WP\Lab5WP\obj\Debug\Lab5WP.csproj.GenerateResource.Cache
+C:\Users\Dorin\Desktop\Lab5WP\Lab5WP\bin\Debug\Lab5WP.exe
+C:\Users\Dorin\Desktop\Lab5WP\Lab5WP\bin\Debug\Lab5WP.pdb
